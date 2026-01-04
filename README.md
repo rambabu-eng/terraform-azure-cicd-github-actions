@@ -1,4 +1,5 @@
 🚀 Azure Terraform CI/CD with GitHub Actions (OIDC)
+
 📌 Overview
 
 This project demonstrates a Terraform-based CI/CD pipeline that deploys Azure infrastructure using GitHub Actions with OIDC (Workload Identity Federation) — eliminating the need for client secrets and following modern cloud security best practices.
